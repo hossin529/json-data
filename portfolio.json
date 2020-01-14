@@ -1,6 +1,6 @@
 {
 	"about": "I am an expert in creating cross-platform iOS/Android. While I have a strong knowledge of basics, such as common design patterns (MVC, provider, bloc pattern), programming languages ( Dart, php) and frameworks (Flutter, laravel.),I also have a great experience in wide number of third-party SDKs: Google Firebase, Facebook, Stripe, Google Maps etc.",
-	"imageUrl" :"",
+	"imageUrl" :"https://scontent.frba3-1.fna.fbcdn.net/v/t31.0-8/s960x960/14708076_1500292676652506_4703569553143012329_o.jpg?_nc_cat=104&_nc_ohc=_N9UwjJPj8sAX-uGnFt&_nc_ht=scontent.frba3-1.fna&_nc_tp=1002&oh=0e0b3c8f1f4e60459ad013d748ae5ee2&oe=5EA7CEC9",
 	"projects":[
 		{
 			"title": "Dentisto",
