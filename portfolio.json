@@ -1,0 +1,54 @@
+{
+	"about": "I am an expert in creating cross-platform iOS/Android. While I have a strong knowledge of basics, such as common design patterns (MVC, provider, bloc pattern), programming languages ( Dart, php) and frameworks (Flutter, laravel.),I also have a great experience in wide number of third-party SDKs: Google Firebase, Facebook, Stripe, Google Maps etc.",
+	"imageUrl" :"",
+	"projects":[
+		{
+			"title": "Dentisto",
+	        "description": "Gestion de cabinet dentaire en ligne",
+	       "imageUrl": "https://dentisto.co/img/bg-img/welcome-img.png",
+	       "websiteLink": "https://dentisto.co/",
+	       "year": "2016",
+	       "live": 1,
+		   "platForm": "WEB"
+		},
+		{
+			"title": "Nadif",
+	        "description": "nadif est une Plate-form mobile qui facilite de prendre des services instantané. Sans faire des Apples téléphoniques ou d’autres manières traditionnelles",
+	       "imageUrl": "https://www.nadif.net/assets/images/front/logo.png",
+	       "websiteLink": "https://www.nadif.net/",
+	       "year": "2018",
+	       "live": 1,
+		   "platForm": "MOBILE"
+		},
+		{
+			"title": "flutter beautiful screens",
+	        "description": "",
+	       "imageUrl": "https://raw.githubusercontent.com/hossin529/flutter-beautiful-screens/master/assets/screenshots/Screenshot_1.png",
+	       "websiteLink": "https://github.com/hossin529/flutter-beautiful-screens/",
+	       "year": "2019",
+	       "live": 0,
+		   "platForm": "MOBILE"
+		}
+	],
+	"tutorials":[
+		{
+			"title": "Flutter : Chat app Tutorial",
+	       "imageUrl": "https://i.ytimg.com/vi/6vOIk2-WoxQ/hqdefault.jpg",
+	       "link": "https://www.youtube.com/playlist?list=PL_5DleQzXnX4GRhKef32CiSs2oBfTVxe3",
+	       "count": 11
+		},
+		{
+			"title": "Flutter : UI Tutorials",
+	       "imageUrl": "https://i.ytimg.com/vi/1pQh8n-dt8I/hqdefault.jpg",
+	       "link": "https://www.youtube.com/playlist?list=PL_5DleQzXnX7RGiESYUqOh6prN6GVHb9S",
+	       "count": 8
+		},
+		{
+			"title": "Flutter : Business logic",
+	       "imageUrl": "https://miro.medium.com/max/563/1*KwHiiXNVJ6iGVCyjm_H0Sg.jpeg",
+	       "link": "https://www.youtube.com/playlist?list=PL_5DleQzXnX6PnKT88shDafpR_z7BaSfU",
+	       "count": 2
+		}
+
+	]
+}
